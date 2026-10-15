@@ -16,4 +16,8 @@
     <PackageReference Include="coverlet.collector" Version="6.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BADC.Temperatura\BADC.Temperatura.csproj" />
+  </ItemGroup>
+
 </Project>
