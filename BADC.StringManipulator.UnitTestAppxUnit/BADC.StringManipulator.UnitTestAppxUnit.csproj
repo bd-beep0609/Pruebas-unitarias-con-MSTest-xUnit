@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BADC.StringManipulator\BADC.StringManipulator.csproj" />
+  </ItemGroup>
+
 </Project>
